@@ -20,7 +20,7 @@ global.price1 = '-'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/c62b1d9d731a44cdd58c0.jpg' //ini juga ganti 
+global.fotonya2 = 'https://telegra.ph/file/5ad96754196b75570ffc8.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Kyura-MD'
